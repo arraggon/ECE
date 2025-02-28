@@ -1,0 +1,85 @@
+C:/ECE272/lab5V4/output_files/chooseDisplay.sv {1 {vlog -work work -sv -stats=none C:/ECE272/lab5V4/output_files/chooseDisplay.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module displayMethod
+
+Top level modules:
+	displayMethod
+
+} {} {}} C:/ECE272/lab5V4/chooseClk.sv {1 {vlog -work work -sv -stats=none C:/ECE272/lab5V4/chooseClk.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module chooseClk
+
+Top level modules:
+	chooseClk
+
+} {} {}} C:/ECE272/lab5V4/quickChange.sv {1 {vlog -work work -sv -stats=none C:/ECE272/lab5V4/quickChange.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module quickChange
+
+Top level modules:
+	quickChange
+
+} {} {}} C:/ECE272/lab5V4/sixtychanger.sv {1 {vlog -work work -sv -stats=none C:/ECE272/lab5V4/sixtychanger.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module sixtychanger
+
+Top level modules:
+	sixtychanger
+
+} {} {}} C:/ECE272/lab5V4/subtractor.sv {1 {vlog -work work -sv -stats=none C:/ECE272/lab5V4/subtractor.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module subtractor
+
+Top level modules:
+	subtractor
+
+} {} {}} C:/ECE272/lab5V4/alarmChecker.sv {1 {vlog -work work -sv -stats=none C:/ECE272/lab5V4/alarmChecker.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module alarmChecker
+
+Top level modules:
+	alarmChecker
+
+} {} {}} C:/ECE272/lab5V4/parser.sv {1 {vlog -work work -sv -stats=none C:/ECE272/lab5V4/parser.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module parser
+
+Top level modules:
+	parser
+
+} {} {}} C:/ECE272/lab5V4/sync.sv {1 {vlog -work work -sv -stats=none C:/ECE272/lab5V4/sync.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module sync
+
+Top level modules:
+	sync
+
+} {} {}} C:/ECE272/lab5V4/change.sv {1 {vlog -work work -sv -stats=none C:/ECE272/lab5V4/change.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module change
+
+Top level modules:
+	change
+
+} {} {}} C:/ECE272/lab5V4/comparator.sv {1 {vlog -work work -sv -stats=none C:/ECE272/lab5V4/comparator.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module comparator
+
+Top level modules:
+	comparator
+
+} {} {}} C:/ECE272/lab5V4/counter.sv {1 {vlog -work work -sv -stats=none C:/ECE272/lab5V4/counter.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} C:/ECE272/lab5V4/sevenseg.sv {1 {vlog -work work -sv -stats=none C:/ECE272/lab5V4/sevenseg.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module sevenseg
+
+Top level modules:
+	sevenseg
+
+} {} {}}

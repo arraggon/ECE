@@ -1,0 +1,18 @@
+module sixtychanger 
+	(
+	input  logic [7:0] before,
+	input logic C,
+	input logic add,
+	input logic minus,
+	
+	output logic [7:0] after
+	);
+	
+	if (add & C) begin
+		if (before < 59)
+			before = before + 1;
+		else if (before == 59)
+			before = 0;
+	end
+	
+	

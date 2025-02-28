@@ -1,0 +1,20 @@
+module alarmChecker (
+    input logic [7:0] hr,
+    input logic [7:0] min,
+    input logic [7:0] sec,
+    
+    input logic [7:0] alarmHr,
+    input logic [7:0] alarmMin,
+    input logic [7:0] alarmSec,
+    
+    output logic alarmOut
+);
+
+    always_comb begin
+        if ((hr == alarmHr) && (min == alarmMin) && (sec == alarmSec))
+            alarmOut = 1;
+        else
+            alarmOut = 0;
+    end
+
+endmodule

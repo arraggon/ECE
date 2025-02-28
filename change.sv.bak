@@ -1,0 +1,8 @@
+module change (
+	input logic [2:0] C;
+	output logic R;
+	)
+
+	assign R = C[0]&C[1]&C[2];
+
+endmodule

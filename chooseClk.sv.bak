@@ -1,0 +1,13 @@
+module chooseClk(
+    input logic [1:0] Clk,
+    input logic switch,
+    output logic clockOut
+);
+
+    always_comb begin
+        if (!switch)
+            clockOut = Clk[0];
+        else 
+            clockOut = Clk[1];
+    end
+endmodule
