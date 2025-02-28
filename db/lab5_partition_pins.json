@@ -1,0 +1,225 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "alarm",
+					"strict" : false
+				},
+				{
+					"name" : "Seg0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg4[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg4[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg4[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg4[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg4[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg4[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg4[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg5[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg5[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg5[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg5[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg5[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg5[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg5[0]",
+					"strict" : false
+				},
+				{
+					"name" : "switch[0]",
+					"strict" : false
+				},
+				{
+					"name" : "switch[3]",
+					"strict" : false
+				},
+				{
+					"name" : "add",
+					"strict" : false
+				},
+				{
+					"name" : "minus",
+					"strict" : false
+				},
+				{
+					"name" : "ResetActiveLow",
+					"strict" : false
+				},
+				{
+					"name" : "C[0]",
+					"strict" : false
+				},
+				{
+					"name" : "switch[2]",
+					"strict" : false
+				},
+				{
+					"name" : "C[1]",
+					"strict" : false
+				},
+				{
+					"name" : "switch[1]",
+					"strict" : false
+				},
+				{
+					"name" : "C[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Clock50MHz",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
